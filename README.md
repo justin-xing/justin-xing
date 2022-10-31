@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Justin Xing, AKA @Shocake, a CS/BBA student at UWaterloo and Laurier!
+- 👀 I’m interested in entrepreneurship - there are so many things to do, learn, and succeed at!
+- 🌱 I’m currently learning how to get better at programming in general - I do like machine learning...
+- 💞️ I’m looking to collaborate on anything and everything!
+- 📫 How to reach me: justinxing3@gmail.com
