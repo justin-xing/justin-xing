@@ -1,6 +1,6 @@
 Hi, my name is Justin Xing, a Double Degree BCS/BBA student at UWaterloo and Laurier!
 
-Currently learning React.js
+Currently learning ReactJS
 
 Check me out at my website: justin-xing.github.io
 
