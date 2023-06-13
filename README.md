@@ -1,6 +1,6 @@
 ## H2 Hi! I'm Justin, a CS student at UWaterloo.
 
-Currently learning React and Django
+### H3 I'm currently learning **React and Django**, amongst other technologies to do some awesome work.
 
 Want to chat?
 Feel free to reach out at: justin.xing@uwaterloo.com
