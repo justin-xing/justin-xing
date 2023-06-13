@@ -1,4 +1,4 @@
-Hi! I'm Justin, a CS student at UWaterloo.
+## H2 Hi! I'm Justin, a CS student at UWaterloo.
 
 Currently learning React and Django
 
