@@ -1,6 +1,6 @@
 ## I'm Justin, a 3rd year CS student at UWaterloo.
 
-Prev @ Government of Canada, Qualifacts
+Prev @ Government of Canada, Qualifacts\
 Inc @ Google
 
 > Want to chat?
