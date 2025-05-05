@@ -2,7 +2,7 @@
 
 Proficient in front-end and back-end web development.
 
-Inc @ **Google**\
+Cur @ **Google**\
 Prev @ **Government of Canada**, **Qualifacts**
 
 > Want to chat?
