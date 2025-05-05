@@ -2,8 +2,8 @@
 
 Proficient in front-end and back-end web development.
 
-Cur @ **Google**\
-Prev @ **Government of Canada**, **Qualifacts**
+Currently @ **Google**\
+Previously @ **Government of Canada**, **Qualifacts**
 
 > Want to chat?
 Feel free to reach out at: justin.xing@uwaterloo.com
