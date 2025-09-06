@@ -1,6 +1,6 @@
 ## I'm Justin, a 3rd year CS student at UWaterloo.
 
-Proficient in front-end and back-end web development.
+Proficient in front-end and back-end web development. Exploring other skillsets.
 
 Previously @**Google**, **Government of Canada**, **Qualifacts**
 
