@@ -2,6 +2,8 @@
 
 Proficient in front-end and back-end web development. Exploring other skillsets.
 
+Interning at Databricks for Winter 2026.
+
 Previously @**Google**, **Government of Canada**, **Qualifacts**
 
 > Want to chat?
