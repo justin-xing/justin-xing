@@ -2,7 +2,7 @@
 
 Interning at Databricks for Winter 2026.
 
-Previously @**Google**, **Government of Canada**, **Qualifacts**
+Previously eng @**Google**, **Government of Canada**, **Qualifacts**
 
 > Want to chat?
 Feel free to reach out at: justin.xing@uwaterloo.com
