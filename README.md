@@ -1,4 +1,4 @@
-## I'm Justin, a 3rd year CS student at UWaterloo.
+## I'm Justin, a 4th year CS student at UWaterloo.
 
 Interning at Databricks for Winter 2026.
 
