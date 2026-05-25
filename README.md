@@ -1,6 +1,6 @@
 ## I'm Justin, a 4th year CS student at UWaterloo.
 
-Interning at Databricks for Winter 2026. Returning to Google for Summer 2026.
+Interning at Google Labs, working on Gen Media for Summer 2026.
 
 Previously eng @**Google**, **Government of Canada**, **Qualifacts**
 
