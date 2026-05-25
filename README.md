@@ -1,6 +1,6 @@
 ## I'm Justin, a 4th year CS student at UWaterloo.
 
-Interning at Google Labs, working on Gen Media for Summer 2026.
+Interning at Google Labs, working on Gen Media.
 
 Previously eng @**Databricks**, **Google**, **Government of Canada**, **Qualifacts**
 
