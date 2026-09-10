@@ -1,4 +1,4 @@
-## I'm Justin, a 4th year CS student at UWaterloo.
+## I'm Justin, a 5th year CS student at UWaterloo.
 
 [justin-xing.github.io/](https://justin-xing.github.io/)
 
