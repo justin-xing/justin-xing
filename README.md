@@ -2,6 +2,8 @@
 
 [justin-xing.github.io/](https://justin-xing.github.io/)
 
+Undergraduate research assistant investigating resource allocation for serverless systems.
+
 Previously eng @**Google Labs**, **Databricks**, **YouTube**, **Government of Canada**, **Qualifacts**
 
 > Want to chat?
